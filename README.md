@@ -1,7 +1,7 @@
 # amazon_scraper
-Downloads top50 products in all best selling categories of amazon
-
+Downloads top 50 products in all best selling categories of amazon
+https://www.amazon.in/gp/bestsellers/
 
 `scrape.py` - Uses BeautifulSoup & Requests library to download top50 products in all BestSelling categories of Amazon<br>
 
- `Downloads` - All the product details of each category is downloaded in csv file named after the category. And all the files are saved in Downloads folder
+ `Downloads` - For all the top 50 products in each Best Selling Category we capture the Product Name, Price, Rating, No. of Reviews and Link in a `csv` file. A separate CSV file is created for each Category.

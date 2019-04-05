@@ -1,6 +1,6 @@
 # amazon_scraper
-Downloads top 50 products in all best selling categories of amazon
-https://www.amazon.in/gp/bestsellers/
+Downloads top 50 products in all best selling categories of amazon using BeautifulSoup and requests library<br>
+https://www.amazon.in/gp/bestsellers/<br>
 
 `scrape.py` - Uses BeautifulSoup & Requests library to download top50 products in all BestSelling categories of Amazon<br>
 
